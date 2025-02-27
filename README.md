@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Thanh Phu</h1>
-
-<html class="mdl-js" style="height: 100%;"><head><meta name="viewport" content="width=device-width, minimum-scale=0.1"><title>spring.png (452×452)</title></head><body style="margin: 0px; height: 100%; background-color: rgb(14, 14, 14);"><img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring.png"></body>
-</html>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thanphuuuuu&label=Profile%20views&color=0e75b6&style=flat" alt="thanphuuuuu" /> </p>
 
 <h3 align="left">Connect with me:</h3>
