@@ -1,46 +1,52 @@
 <h1 align="center">Hi 👋, I'm Thanh Phu</h1>
 
-# Hi 👋, I'm Thanh Phu (Trần Lê Thành Phú)
-
-### 👨‍💻 Fullstack Developer | Passionate about Web Development & AI
-
-Tôi là một lập trình viên luôn nỗ lực xây dựng các ứng dụng web với trải nghiệm người dùng (UX) mượt mà và hệ thống backend vững chắc. Tôi thích giải quyết các thuật toán phức tạp và luôn tò mò về cách tích hợp AI vào sản phẩm thực tế.
-
----
-
-### 🚀 About Me
-
-- 🔭 **Currently working on:** Xây dựng một trang Portfolio cá nhân hoàn chỉnh và các dự án Fullstack thực tế.
-- 🌱 **Currently learning:** Đào sâu vào kiến trúc **NestJS**, triển khai với **Docker**, và tìm hiểu các thuật toán AI/Machine Learning.
-- 💡 **Interests:** Tối ưu hóa UI/UX, luyện tập cấu trúc dữ liệu và thuật toán, Database Seeding.
-- 💬 **Ask me about:** React, TypeScript, Next.js, hoặc cách vận hành cơ bản của một ứng dụng Node.js.
-- 📫 **How to reach me:** [Email của bạn] hoặc [Link LinkedIn của bạn]
-
----
-
-### 💻 Tech Stack & Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <br/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thanphuuuuu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Thanh Phu's GitHub Stats" />
+  
+  # Trần Lê Thành Phú
+  **Software Engineer • Fullstack Developer • AI Enthusiast**
+
+  *"Kiến tạo trải nghiệm mượt mà ở Frontend, xây dựng nền tảng vững chắc ở Backend."*
+
+  [Portfolio](#) • [LinkedIn](#) • [Email](#)
+
 </div>
 
 <br/>
+
+## ❯ Về tư duy phát triển
+
+Tôi không chỉ viết code để chạy được. Tôi tập trung vào việc kiến trúc hệ thống rõ ràng, đảm bảo Type-safety từ đầu đến cuối ứng dụng và tối ưu hóa từng điểm chạm nhỏ nhất của người dùng. 
+
+Hiện tại, tôi đang dành thời gian nghiên cứu sâu về các thuật toán AI/Machine Learning và cách tích hợp chúng vào các ứng dụng Web hiện đại để giải quyết các bài toán thực tế.
+
+## ❯ Công cụ & Công nghệ
+
+Thay vì liệt kê mọi thứ từng chạm vào, đây là hệ sinh thái tôi tự tin nhất và sử dụng hàng ngày:
+
+- **Ecosystem:** `TypeScript` (Trái tim của mọi dự án)
+- **Frontend:** `React`, `Next.js`, `TailwindCSS` (Tập trung vào interactive UI & smooth UX)
+- **Backend:** `NestJS`, `Node.js` (Kiến trúc module hóa, dễ dàng mở rộng)
+- **Database & DevOps:** `PostgreSQL`, `Docker`, `Docker Compose`
+
+<br/>
+
+## ❯ Hoạt động gần đây
+
+Bên cạnh việc liên tục đẩy code và hoàn thiện các dự án cá nhân, tôi đang tập trung vào:
+
+* 🏗️ Xây dựng kiến trúc hệ thống phân tán với **NestJS** và **Docker**.
+* 🧠 Tích hợp các thuật toán AI (Clustering, Recommendation systems) vào ứng dụng Web.
+* ⚡ Giải quyết các bài toán về Cấu trúc dữ liệu và Thuật toán để tối ưu hiệu suất xử lý.
+
+<br/>
+
+<div align="center">
+  
+  *Hãy để những dòng code và các dự án thực tế lên tiếng.*
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=thanphuuuuu&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=24&theme=minimalist" width="400" alt="GitHub Stats" />
+
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanphuuuuu&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
